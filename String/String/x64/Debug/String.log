@@ -1,0 +1,20 @@
+﻿  Test.cpp
+D:\code\data structure\String\String\String.h(41,16): error C2059: 语法错误:“)”
+  (编译源文件“Test.cpp”)
+  
+D:\code\data structure\String\String\Test.cpp(9,2): error C2679: 二元“+=”: 没有找到接受“yxw::String”类型的右操作数的运算符(或没有可接受的转换)
+  D:\code\data structure\String\String\String.h(127,11):
+  可能是“yxw::String &yxw::String::operator +=(const char *)”
+  	D:\code\data structure\String\String\Test.cpp(9,2):
+  	“yxw::String &yxw::String::operator +=(const char *)”: 无法将参数 2 从“yxw::String”转换为“const char *”
+  		D:\code\data structure\String\String\Test.cpp(9,8):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  D:\code\data structure\String\String\String.h(122,11):
+  或    “yxw::String &yxw::String::operator +=(char)”
+  	D:\code\data structure\String\String\Test.cpp(9,2):
+  	“yxw::String &yxw::String::operator +=(char)”: 无法将参数 2 从“yxw::String”转换为“char”
+  		D:\code\data structure\String\String\Test.cpp(9,8):
+  		没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  D:\code\data structure\String\String\Test.cpp(9,2):
+  尝试匹配参数列表“(yxw::String, yxw::String)”时
+  

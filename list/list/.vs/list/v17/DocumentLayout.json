@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\data structure\\list\\list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B7687-BDF9-4B84-AF81-A44B7ACDDF02}|list\\list.vcxproj|D:\\code\\data structure\\list\\list\\list\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D73B7687-BDF9-4B84-AF81-A44B7ACDDF02}|list\\list.vcxproj|solutionrelative:list\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B7687-BDF9-4B84-AF81-A44B7ACDDF02}|list\\list.vcxproj|D:\\code\\data structure\\list\\list\\list\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D73B7687-BDF9-4B84-AF81-A44B7ACDDF02}|list\\list.vcxproj|solutionrelative:list\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "D:\\code\\data structure\\list\\list\\list\\Test.cpp",
+              "RelativeDocumentMoniker": "list\\Test.cpp",
+              "ToolTip": "D:\\code\\data structure\\list\\list\\list\\Test.cpp",
+              "RelativeToolTip": "list\\Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T15:01:49.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.h",
+              "DocumentMoniker": "D:\\code\\data structure\\list\\list\\list\\list.h",
+              "RelativeDocumentMoniker": "list\\list.h",
+              "ToolTip": "D:\\code\\data structure\\list\\list\\list\\list.h",
+              "RelativeToolTip": "list\\list.h",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T15:01:39.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

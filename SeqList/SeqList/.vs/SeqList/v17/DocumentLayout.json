@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\data structure\\SeqList\\SeqList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|solutionrelative:SeqList\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|solutionrelative:SeqList\\SeqList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BA589B-08AD-488E-BC9E-9E7DD0CADE0F}|SeqList\\SeqList.vcxproj|solutionrelative:SeqList\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeqList.h",
+              "DocumentMoniker": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.h",
+              "RelativeDocumentMoniker": "SeqList\\SeqList.h",
+              "ToolTip": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.h",
+              "RelativeToolTip": "SeqList\\SeqList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-24T13:54:56.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\Test.cpp",
+              "RelativeDocumentMoniker": "SeqList\\Test.cpp",
+              "ToolTip": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\Test.cpp",
+              "RelativeToolTip": "SeqList\\Test.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAA2wFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T13:55:16.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeqList.cpp",
+              "DocumentMoniker": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.cpp",
+              "RelativeDocumentMoniker": "SeqList\\SeqList.cpp",
+              "ToolTip": "D:\\code\\data structure\\SeqList\\SeqList\\SeqList\\SeqList.cpp",
+              "RelativeToolTip": "SeqList\\SeqList.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA2wHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T13:55:09.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
